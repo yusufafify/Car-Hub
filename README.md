@@ -1,6 +1,6 @@
 # CarHub - Car Showcase Website
 
-[![logo](https://github.com/yusufafify/Car-Hub/assets/115397064/e1b94ef0-1497-4331-9b02-649489f0b8ab)](https://car-hub-one-chi.vercel.app/)
+[![logo](https://github.com/yusufafify/Car-Hub/assets/115397064/e1b94ef0-1497-4331-9b02-649489f0b8ab)](https://car-hub-taupe-mu.vercel.app/)
 
 ## Overview
 
@@ -15,7 +15,7 @@ CarHub is a car showcase website built with Next.js, TypeScript, Rapid API, and 
 
 ## Live Preview
 ### [click here to Live Preview](https://car-hub-one-chi.vercel.app/) or click on the photo
-[![Car Hub 1](https://github.com/yusufafify/Car-Hub/assets/115397064/f4b5c00f-ee20-4ea5-977e-0b0b6d4f1df8)](https://car-hub-one-chi.vercel.app/)
+[![Car Hub 1](https://github.com/yusufafify/Car-Hub/assets/115397064/f4b5c00f-ee20-4ea5-977e-0b0b6d4f1df8)](https://car-hub-taupe-mu.vercel.app/)
 
 ## Screenshots
 ![Car Hub 1](https://github.com/yusufafify/Car-Hub/assets/115397064/f4b5c00f-ee20-4ea5-977e-0b0b6d4f1df8)
